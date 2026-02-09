@@ -1,8 +1,0 @@
-
-{
-  "name": "Rainério Motors Premium",
-  "description": "A high-end luxury automotive landing page and concierge service featuring an AI-powered consultant.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
